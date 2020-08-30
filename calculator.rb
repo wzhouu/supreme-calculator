@@ -13,6 +13,7 @@ while true
   puts "Enter sign: "
   sign = gets.chomp()
 
+  #sign commands
   if sign == "+"
     puts (num1 + num2)
   elsif sign == "-"

@@ -1,7 +1,9 @@
-puts "Welcome to Premier Zhou's Supreme Calculator v1.1.1"
+puts "Welcome to Premier Zhou's Supreme Calculator v1.1.2"
 
+#welcome message
 puts "Enter your name: "
 name = gets.chomp()
+puts "Hello #{name}!"
 
 while true
   #1st Number user enters

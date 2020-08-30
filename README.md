@@ -1,2 +1,11 @@
-# calculator
-Simple Ruby calculator created by the Premier (Wesley Zhou). v1.0.1
+#supreme calculator
+Simple Ruby calculator created by the Premier (Wesley Zhou). v1.1.0
+
+Useage:
+-Enter your name
+-Enter first number
+-Enter second number
+-Enter sign
+-Calculated
+
+Currently supports: addition, subtraction, multiplication, division, and exponents.

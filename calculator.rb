@@ -1,4 +1,4 @@
-puts "Welcome to Premier Zhou's Calculator v1.1.0"
+puts "Welcome to Premier Zhou's Supreme Calculator v1.1.1"
 
 puts "Enter your name: "
 name = gets.chomp()

@@ -1,4 +1,7 @@
-puts "Welcome to Premier Zhou's Calculator v1.0.1"
+puts "Welcome to Premier Zhou's Calculator v1.1.0"
+
+puts "Enter your name: "
+name = gets.chomp()
 
 while true
   #1st Number user enters
@@ -22,6 +25,8 @@ while true
     puts (num1 * num2)
   elsif sign == "/"
     puts (num1 / num2)
+  elsif sign == "**"
+    puts (num1 ** num2)
   else
     puts "That is not a valid sign!"
   end

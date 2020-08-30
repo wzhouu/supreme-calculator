@@ -1,6 +1,6 @@
 #supreme calculator
 
-Simple Ruby calculator created by the Premier (Wesley Zhou). v1.1.1
+Simple Ruby calculator created by the Premier (Wesley Zhou). v1.1.2
 
 Useage:
 -Enter your name

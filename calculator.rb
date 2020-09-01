@@ -1,4 +1,4 @@
-puts "Welcome to Premier Zhou's Supreme Calculator v1.1.2"
+puts "Welcome to Premier Zhou's Supreme Calculator v1.1.3"
 
 #welcome message
 puts "Enter your name: "
@@ -18,7 +18,7 @@ while true
   puts "Enter sign: "
   sign = gets.chomp()
 
-  #sign commands
+  #signs-and-answers
   if sign == "+"
     puts (num1 + num2)
   elsif sign == "-"

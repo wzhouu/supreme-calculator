@@ -3,7 +3,7 @@ puts "Welcome to Premier Zhou's Supreme Calculator v1.1.2"
 #welcome message
 puts "Enter your name: "
 name = gets.chomp()
-puts "Hello #{name}!"
+puts "Hello #{name}! You are using a Supreme Invention from the Premier."
 
 while true
   #1st Number user enters

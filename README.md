@@ -1,4 +1,4 @@
-Simple Ruby calculator created by the Premier (Wesley Zhou). v1.2.0
+Simple Ruby calculator created by the Premier (Wesley Zhou). v1.3.0
 
 How to Use:
 

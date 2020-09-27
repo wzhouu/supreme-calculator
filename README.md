@@ -1,4 +1,4 @@
-Simple Ruby calculator created by the Premier (Wesley Zhou). v1.3.0
+Simple Ruby calculator created by the Premier (Wesley Zhou). v1.3.1
 
 How to Use:
 
@@ -8,7 +8,7 @@ How to Use:
 
 -Enter second number
 
--Enter sign
+-Enter operator
 
 -Calculated
 
